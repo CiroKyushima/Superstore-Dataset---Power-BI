@@ -39,5 +39,5 @@ analisando o grafico acima, notamos que a venda de telefones e cadeiras são bem
 
 ### 4 - vendas por localidade:
 ![Grafico de vendas por localidades](image/total_vendas.png)
-to be continued... ksksksks futuramente escreverei sobre essas analises
+to be continued... ksksksks futuramente escreverei sobre essas analises</br>
 desenvolverei um DashBoard com Power BI para compreender melhor o motivo dessa baixa lucratividade;
