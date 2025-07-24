@@ -1,4 +1,4 @@
-# Superstore-Dataset---Power-BI
+# Superstore-Dataset
 ## introdução:
 Contexto: Com a crescente demanda e a competição acirrada no mercado, uma gigante do setor de supermercados busca seu conhecimento para entender o que funciona melhor para ela. Ela gostaria de entender quais produtos, regiões, categorias e segmentos de clientes devem ser alvo ou evitados.</br>
 Objetivo: analisar quais os produtos, regiões, categorias, sub-categorias, dias, anos e meses que estão dando maior lucratividade;</br>
@@ -39,5 +39,5 @@ analisando o grafico acima, notamos que a venda de telefones e cadeiras são bem
 
 ### 4 - vendas por localidade:
 ![Grafico de vendas por localidades](image/total_vendas.png)
-to be continued... ksksksks futuramente escreverei sobre essas analises</br>
-desenvolverei um DashBoard com Power BI para compreender melhor o motivo dessa baixa lucratividade;
+analisando o gráfico de cidades, nova York e los angeles lideram nas vendas, é interessante perceber que nova York ainda apresenta quase 100k de vendas a mais que los angeles, demonstrando que essa cidade esta sendo a mais lucrativa. analisando o gráfico sobre os estados, a california lidera o ranking com mais de 100k de vendas em relação ao estado de nova York que esta em segundo em vendas.</br>
+analisando o gráfico de cidades, há tres cidades do estado de california no top 10 de vendas sendo los angeles, san Francisco e san diego, isso explica o alto volume de vendas estadual, porem, e possível as outras cidades que estão fora da lista tenham uma lucratividade extremamente baixa. já o estado de nova York lidera na segunda posição, com mais de 100k de vendas em relação aos outros estados. isso demonstra o quanto a cidade de nova York e lucrativa para essa empresa.
