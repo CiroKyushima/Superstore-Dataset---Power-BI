@@ -89,14 +89,6 @@ Este projeto realiza uma **análise exploratória de dados (EDA)** utilizando o 
 
 ---
 
-## 🔮 Próximos Passos
-
-🔹 Criar **modelos de previsão de vendas** (Regressão).  
-🔹 Realizar **segmentação de clientes** (Clusterização).  
-🔹 Analisar **sazonalidade e tendências de vendas** ao longo do tempo.  
-
----
-
 ## 🚀 Como Executar o Projeto
 
 ```bash
