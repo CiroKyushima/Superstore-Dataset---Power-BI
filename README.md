@@ -1,7 +1,7 @@
 # # 📊 Superstore Dataset – Análise Exploratória
 ## introdução:
 Este projeto realiza uma **análise exploratória de dados (EDA)** sobre vendas e lucros de uma rede de supermercados fictícia.  
-O objetivo é identificar **produtos, regiões e categorias mais lucrativas**, além de oportunidades de otimização de vendas.
+O objetivo é identificar **produtos, regiões e categorias mais lucrativas**, além de oportunidades de otimização de vendas(ainda em desenvolvimento).
 
 a base de dados esta disponivel no Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final</br>
 
