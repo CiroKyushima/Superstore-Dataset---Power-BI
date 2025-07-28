@@ -25,6 +25,14 @@ Este projeto realiza uma **análise exploratória de dados (EDA)** utilizando o 
 
 ---
 
+## 🔍 Metodologia da Análise
+
+1️⃣ **Importação e exploração inicial dos dados** (`.head()`, `.info()`, `.describe()`)  
+2️⃣ **Tratamento de dados com valores errados e valores nulos**  
+3️⃣ **Análise exploratória com visualizações**  
+
+---
+
 ## 📈 Principais Insights
 
 ✅ **Tecnologia** é a categoria mais lucrativa.  
