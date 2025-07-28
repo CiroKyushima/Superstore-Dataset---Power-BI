@@ -12,7 +12,7 @@ Este projeto realiza uma **análise exploratória de dados (EDA)** utilizando o 
 
 🔗 **Fonte dos dados:** [Kaggle – Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
-📓 **Notebook completo:** [Clique aqui para visualizar](MAIN.ipynb)
+📓 **Notebook completo:** [Clique aqui para visualizar](MAIN.IPYNB)
 
 ---
 
