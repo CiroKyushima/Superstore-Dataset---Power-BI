@@ -1,4 +1,4 @@
-# # 📊 Superstore Dataset – Análise Exploratória
+**# # 📊 Superstore Dataset – Análise Exploratória
 ## introdução:
 Este projeto realiza uma **análise exploratória de dados (EDA)** sobre vendas e lucros de uma rede de supermercados fictícia.  
 O objetivo é identificar **produtos, regiões e categorias mais lucrativas**, além de oportunidades de otimização de vendas(ainda em desenvolvimento).
@@ -53,4 +53,4 @@ analisando o gráfico de cidades, há tres cidades do estado de california no to
 
 📌 A categoria **Tecnologia** é a mais rentável e deve receber mais investimento.  
 📌 A categoria **Móveis** precisa de revisão de preços e custos logísticos.  
-📌 As cidades **Nova York e Los Angeles** são estratégicas para vendas.  
+📌 As cidades **Nova York e Los Angeles** são estratégicas para vendas.  **
