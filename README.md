@@ -3,8 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
 ![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-green)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Charts-lightblue)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3B4CC0)
 
 Este projeto realiza uma **análise exploratória de dados (EDA)** utilizando o **Superstore Dataset**, que contém informações sobre vendas, lucros e clientes de uma rede de supermercados fictícia.
 
