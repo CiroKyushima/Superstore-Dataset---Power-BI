@@ -18,8 +18,8 @@ Este projeto realiza uma **análise exploratória de dados (EDA)** utilizando o 
 
 ## 🛠 Tecnologias Utilizadas
 - Python 3.9+
-- Pandas | Numpy (manipulação de dados)
-- Matplotlib | Seaborn (visualização de dados)
+- Pandas (manipulação de dados)
+- plotly (visualização de dados)
 - Jupyter Notebook
 - Git/GitHub para versionamento
 
