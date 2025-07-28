@@ -1,4 +1,4 @@
-# 📊 Superstore Dataset – uma Análise Exploratória
+# Superstore Dataset – uma Análise Exploratória
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
