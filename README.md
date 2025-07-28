@@ -7,15 +7,15 @@
 
 Este projeto realiza uma **análise exploratória de dados (EDA)** utilizando o **Superstore Dataset**, que contém informações sobre vendas, lucros e clientes de uma rede de supermercados fictícia.
 
-🎯 **Objetivo:** Identificar **produtos, categorias, regiões e clientes mais lucrativos**, além de oportunidades de otimização nas vendas.
+**Objetivo:** Identificar **produtos, categorias, regiões e clientes mais lucrativos**, além de oportunidades de otimização nas vendas.
 
-🔗 **Fonte dos dados:** [Kaggle – Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+**Fonte dos dados:** [Kaggle – Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
-📓 **Notebook completo:** [Clique aqui para visualizar](MAIN.IPYNB)
+**Notebook completo:** [Clique aqui para visualizar](MAIN.IPYNB)
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Python 3.9+
 - Pandas (manipulação de dados)
 - plotly (visualização de dados)
@@ -24,7 +24,7 @@ Este projeto realiza uma **análise exploratória de dados (EDA)** utilizando o 
 
 ---
 
-## 🔍 Metodologia da Análise
+## Metodologia da Análise
 
 1️⃣ **Importação e exploração inicial dos dados** (`.head()`, `.info()`, `.describe()`)  
 2️⃣ **Tratamento de dados com valores errados e valores nulos**  
@@ -32,7 +32,7 @@ Este projeto realiza uma **análise exploratória de dados (EDA)** utilizando o 
 
 ---
 
-## 📈 Principais Insights
+## Principais Insights
 
 ✅ **Tecnologia** é a categoria mais lucrativa.  
 ✅ **Móveis** têm vendas altas, mas margens muito baixas.  
@@ -42,22 +42,22 @@ Este projeto realiza uma **análise exploratória de dados (EDA)** utilizando o 
 
 ---
 
-## 📊 Visualizações e Análises
+## Visualizações e Análises
 
-### 🔝 1. Top 10 Produtos Mais Vendidos
+### 1. Top 10 Produtos Mais Vendidos
 ![Top 10 Produtos](image/top10.png)
 
-📌 Observa-se que o produto mais vendido possui um volume de vendas significativamente superior aos demais, possivelmente devido a:
+ Observa-se que o produto mais vendido possui um volume de vendas significativamente superior aos demais, possivelmente devido a:
 - Alta demanda e utilidade recorrente
 - Campanhas promocionais e marketing direcionado
 - Disponibilidade em estoque e logística eficiente
 
 ---
 
-### 💰 2. Total de Vendas e Lucro
+### 2. Total de Vendas e Lucro
 ![Vendas e Lucro](image/total_Lucro.png)
 
-📌 Apesar de **vendas semelhantes entre categorias**, a **Tecnologia** apresenta maior margem de lucro, enquanto **Móveis** têm baixa lucratividade, possivelmente por:
+ Apesar de **vendas semelhantes entre categorias**, a **Tecnologia** apresenta maior margem de lucro, enquanto **Móveis** têm baixa lucratividade, possivelmente por:
 - Custos elevados de aquisição/produção
 - Preços de venda baixos
 - Muitos descontos aplicados
@@ -65,31 +65,31 @@ Este projeto realiza uma **análise exploratória de dados (EDA)** utilizando o 
 
 ---
 
-### 📦 3. Top 10 Vendas por Subcategorias
+### 3. Top 10 Vendas por Subcategorias
 ![Top 10 Subcategorias](image/top10_vendas.png)
 
-📌 Telefones e Cadeiras se destacam nas vendas. Entretanto, a baixa margem de lucro da categoria **Móveis** sugere necessidade de revisão de precificação e custos.
+ Telefones e Cadeiras se destacam nas vendas. Entretanto, a baixa margem de lucro da categoria **Móveis** sugere necessidade de revisão de precificação e custos.
 
 ---
 
-### 🗺️ 4. Vendas por Localidade
+###  4. Vendas por Localidade
 ![Vendas por Localidade](image/total_vendas.png)
 
-📌 **Nova York e Los Angeles** são as cidades mais lucrativas.  
-📌 A **Califórnia** concentra as maiores vendas estaduais, seguida por Nova York.  
-📌 Três cidades californianas aparecem no Top 10 (Los Angeles, San Francisco e San Diego).
+ **Nova York e Los Angeles** são as cidades mais lucrativas.  
+ A **Califórnia** concentra as maiores vendas estaduais, seguida por Nova York.  
+ Três cidades californianas aparecem no Top 10 (Los Angeles, San Francisco e San Diego).
 
 ---
 
-## ✅ Conclusões e Recomendações
+##  Conclusões e Recomendações
 
-📌 Focar investimentos na **categoria Tecnologia**, que apresenta maior rentabilidade.  
-📌 Revisar estratégia de preços e custos para **Móveis**, que possuem baixa margem mesmo com boas vendas.  
-📌 **Nova York, Los Angeles e Califórnia** são regiões estratégicas e devem receber maior atenção em campanhas de marketing e logística.
+ Focar investimentos na **categoria Tecnologia**, que apresenta maior rentabilidade.  
+ Revisar estratégia de preços e custos para **Móveis**, que possuem baixa margem mesmo com boas vendas.  
+ **Nova York, Los Angeles e Califórnia** são regiões estratégicas e devem receber maior atenção em campanhas de marketing e logística.
 
 ---
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 ```bash
 # 1️⃣ Clonar o repositório
