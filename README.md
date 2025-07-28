@@ -107,4 +107,4 @@ git clone https://github.com/CiroKyushima/Superstore-Dataset-uma-analise-grafica
 pip install -r requirements.txt
 
 # 3️⃣ Abrir o Jupyter Notebook
-jupyter notebook superstore_analysis.ipynb
+jupyter notebook MAIN.IPYNB
