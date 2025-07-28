@@ -1,15 +1,22 @@
-# Superstore-Dataset
+# # 📊 Superstore Dataset – Análise Exploratória
 ## introdução:
-Contexto: Com a crescente demanda e a competição acirrada no mercado, uma gigante do setor de supermercados busca seu conhecimento para entender o que funciona melhor para ela. Ela gostaria de entender quais produtos, regiões, categorias e segmentos de clientes devem ser alvo ou evitados.</br>
-Objetivo: analisar quais os produtos, regiões, categorias, sub-categorias, dias, anos e meses que estão dando maior lucratividade;</br>
+Este projeto realiza uma **análise exploratória de dados (EDA)** sobre vendas e lucros de uma rede de supermercados fictícia.  
+O objetivo é identificar **produtos, regiões e categorias mais lucrativas**, além de oportunidades de otimização de vendas.
 
 a base de dados esta disponivel no Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final</br>
 
-para o codigo python, utilizei as bibliotecas pandas, numpy, matplotlib, seaborn.
-no codigo disponivel, utilizo as bibliotecas os e zipfile para baixar os dados e descompactar eles de forma organizada.
-a base de dados apresenta 9994 linhas com 21 colunas e pelas analises, o dataset não apresenta problemas que impactem na analise.
-embora ainda tenham outliers como segue o grafico abaixo:
-![Grafico de Outliers](image/outliers.png)</br>
+## 🛠 Tecnologias Utilizadas
+- Python (Pandas, Numpy, Seaborn, Matplotlib)
+- Jupyter Notebook
+- GitHub para versionamento
+
+## 📈 Principais Insights
+
+✅ **Tecnologia** é a categoria mais lucrativa  
+✅ **Móveis** têm vendas altas, mas margens muito baixas  
+✅ **Telefones e Cadeiras** são os produtos mais vendidos  
+✅ **Nova York e Los Angeles** lideram em vendas entre as cidades  
+✅ **Califórnia** é o estado com maior volume de vendas
 
 ## Analise dos Gráficos:
 ### 1 - TOP 10 produtos mais vendidos:
@@ -41,3 +48,9 @@ analisando o grafico acima, notamos que a venda de telefones e cadeiras são bem
 ![Grafico de vendas por localidades](image/total_vendas.png)
 analisando o gráfico de cidades, nova York e los angeles lideram nas vendas, é interessante perceber que nova York ainda apresenta quase 100k de vendas a mais que los angeles, demonstrando que essa cidade esta sendo a mais lucrativa. analisando o gráfico sobre os estados, a california lidera o ranking com mais de 100k de vendas em relação ao estado de nova York que esta em segundo em vendas.</br>
 analisando o gráfico de cidades, há tres cidades do estado de california no top 10 de vendas sendo los angeles, san Francisco e san diego, isso explica o alto volume de vendas estadual, porem, e possível as outras cidades que estão fora da lista tenham uma lucratividade extremamente baixa. já o estado de nova York lidera na segunda posição, com mais de 100k de vendas em relação aos outros estados. isso demonstra o quanto a cidade de nova York e lucrativa para essa empresa.
+
+## ✅ Conclusões e Recomendações
+
+📌 A categoria **Tecnologia** é a mais rentável e deve receber mais investimento.  
+📌 A categoria **Móveis** precisa de revisão de preços e custos logísticos.  
+📌 As cidades **Nova York e Los Angeles** são estratégicas para vendas.  
